@@ -1,6 +1,9 @@
 secrets.yaml
+<<<<<<< HEAD
 
 *.config
+=======
+>>>>>>> parent of 2598594 (Commit with SourceTree)
 # 이렇게 #를 사용해서 주석
 
 # 모든 file.c
